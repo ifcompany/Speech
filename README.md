@@ -1,4 +1,4 @@
-<h1>if Speech</h1>
+<h1>T.Sound</h1>
 <img src="logp.gif">
 <hr />
 <h2><a href="https://ifcompany.ir/apps/Python">Link if</a></h2>
@@ -23,6 +23,8 @@ $ python3 Speech-lin.py</code>
 $ cd Speech <br />
 $ python3 Speech-win.py</code>
 </pre>
+<img src="help-win.png">
+<h2>It is necessary to enter the device's Username to Save the file</h2>
 <hr />
 <a href="https://ifcompny.ir">Site</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
