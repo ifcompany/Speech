@@ -1,5 +1,5 @@
 <h1>if Speech</h1>
-<img src="۲۰۲۰۰۳۰۱_۰۵۴۰۰۱_0263.gif" height="500" width="500">
+<img src="۲۰۲۰۰۳۰۱_۰۵۴۰۰۱_0263.gif">
 <hr />
 <h2><a href="https://ifcompany.ir/apps/Python">Link if</a></h2>
 <h2>Enter your text and hear the sound</h2>
