@@ -1,7 +1,5 @@
 <h1>if Speech</h1>
-<video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
-</video>
+<img src="smiley.gif" height="42" width="42">
 <hr />
 <h2><a href="https://ifcompany.ir/apps/Python">Link if</a></h2>
 <h2>Enter your text and hear the sound</h2>
