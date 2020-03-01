@@ -1,8 +1,5 @@
 <h1>if Speech</h1>
-<img src="smiley.gif" height="42" width="42">
-<audio controls>
-  <source src="pls.mp3" type="audio/mpeg">
-</audio>
+<img src="۲۰۲۰۰۳۰۱_۰۵۴۰۰۱_0263.gif" height="500" width="500">
 <hr />
 <h2><a href="https://ifcompany.ir/apps/Python">Link if</a></h2>
 <h2>Enter your text and hear the sound</h2>
