@@ -24,7 +24,7 @@ $ cd Speech <br />
 $ python3 Speech-win.py</code>
 </pre>
 <img src="help-win.png">
-<h2>It is necessary to enter the device's Username to Save the file</h2>
+<pre><code># It is necessary to enter the device's Username to Save the file</code></pre>
 <hr />
 <a href="https://ifcompny.ir">Site</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
